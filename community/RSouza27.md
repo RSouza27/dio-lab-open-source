@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/renan-souza-ads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renan-souza-ads" height="30" width="40" /></a>
-<a href="https://www.dio.me/users/renanpaulosouza2003" target="blank"><img align="center" src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white">
+<a href="https://www.dio.me/users/renanpaulosouza2003" target="blank"><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="renanpaulosouza2003" height="30" width="40">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
